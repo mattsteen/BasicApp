@@ -1,0 +1,15 @@
+.gradle
+/local.properties
+/.idea/workspace.xml
+.DS_Store
+/build
+BasicApp.iml
+.idea/.name
+.idea/compiler.xml
+.idea/encodings.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/copyright/profiles_settings.xml
+.idea/scopes/scope_settings.xml
